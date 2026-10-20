@@ -1,0 +1,701 @@
+﻿alert_id,bulan,wilayah,luas_perubahan_ha,indikator_kedekatan_jalan_0_1,indikator_kebakaran_0_1,indikator_air_banjir_0_1,ketersediaan_optik_0_1,sinyal_radar_0_1,driver_label
+ALR0001,2025-02,Borneo,1.85,0.401,0.422,0.0,0.751,0.667,Pertanian skala kecil
+ALR0002,2023-04,Borneo,5.05,0.695,0.362,0.629,0.316,0.766,Pertambangan
+ALR0003,2024-01,Amerika Selatan,2.47,0.85,0.386,0.0,0.877,0.775,Penebangan selektif
+ALR0004,2023-03,Asia Tenggara,6.97,0.444,0.275,0.39,0.708,0.707,Pertanian skala besar
+ALR0005,2023-06,Amerika Selatan,1.86,0.542,0.051,0.295,0.936,0.685,Pertanian skala besar
+ALR0006,2023-12,Borneo,9.24,0.63,0.969,0.432,0.557,0.568,Kebakaran
+ALR0007,2025-05,Asia Tenggara,4.4,0.119,0.254,0.486,0.964,0.596,Gangguan alami/banjir
+ALR0008,2024-09,Amerika Selatan,3.04,0.462,0.151,0.129,0.573,0.73,Pertanian skala kecil
+ALR0009,2025-04,Asia Tenggara,3.99,0.272,0.029,0.349,0.841,0.977,Pertambangan
+ALR0010,2024-08,Asia Tenggara,10.13,0.658,0.295,0.0,0.808,1.0,Pertanian skala besar
+ALR0011,2023-06,Amazon,1.91,0.105,0.241,0.828,0.483,0.993,Gangguan alami/banjir
+ALR0012,2023-12,Cekungan Kongo,2.83,0.154,0.44,1.0,0.201,0.554,Gangguan alami/banjir
+ALR0013,2025-05,Asia Tenggara,5.2,0.65,0.093,0.3,1.0,0.553,Pertambangan
+ALR0014,2024-03,Amazon,7.77,0.273,1.0,0.374,0.598,0.729,Kebakaran
+ALR0015,2024-11,Asia Tenggara,2.88,0.67,0.143,0.4,0.552,0.678,Penebangan selektif
+ALR0016,2023-12,Borneo,2.74,0.519,0.893,0.295,0.968,0.893,Kebakaran
+ALR0017,2024-09,Asia Tenggara,2.45,0.843,0.082,0.109,0.763,0.692,Penebangan selektif
+ALR0018,2024-04,Cekungan Kongo,8.63,0.484,0.03,0.337,0.698,0.935,Pertanian skala besar
+ALR0019,2025-03,Borneo,2.27,0.477,0.0,0.432,0.78,0.303,Pertanian skala besar
+ALR0020,2023-10,Borneo,1.71,0.13,0.348,0.157,0.734,0.549,Pertanian skala kecil
+ALR0021,2025-06,Asia Tenggara,0.87,0.784,0.241,0.128,0.0,0.765,Penebangan selektif
+ALR0022,2023-10,Borneo,1.59,0.661,0.058,0.228,0.259,0.944,Penebangan selektif
+ALR0023,2025-06,Cekungan Kongo,5.52,,0.506,0.261,0.471,0.541,Pertambangan
+ALR0024,2023-07,Asia Tenggara,2.89,0.357,0.0,0.028,1.0,0.498,Pertanian skala kecil
+ALR0025,2024-07,Cekungan Kongo,0.72,0.998,0.148,0.224,0.984,0.787,Penebangan selektif
+ALR0026,2025-01,Cekungan Kongo,2.65,0.457,0.0,0.338,1.0,0.737,Pertanian skala besar
+ALR0027,2025-01,Asia Tenggara,1.19,0.485,0.285,0.025,0.609,0.948,Pertanian skala kecil
+ALR0028,2024-12,Cekungan Kongo,7.6,0.35,0.218,0.096,1.0,0.93,Pertambangan
+ALR0029,2024-07,Asia Tenggara,3.11,0.974,0.419,0.0,0.811,0.971,Penebangan selektif
+ALR0030,2023-08,Amazon,10.37,0.269,0.106,0.29,0.277,0.918,Pertanian skala besar
+ALR0031,2024-09,Amazon,1.51,0.666,0.0,0.068,0.844,0.68,Pertanian skala kecil
+ALR0032,2024-02,Cekungan Kongo,4.77,0.506,0.719,0.329,1.0,1.0,Kebakaran
+ALR0033,2024-04,Amazon,5.04,0.254,0.92,0.037,0.218,0.764,Kebakaran
+ALR0034,2024-11,Cekungan Kongo,4.13,0.7,0.018,0.221,0.721,0.669,Pertambangan
+ALR0035,2025-08,Amazon,4.03,0.513,0.048,0.237,0.737,0.646,Pertanian skala besar
+ALR0036,2023-08,Amerika Selatan,2.77,0.098,0.128,0.591,0.739,0.847,Gangguan alami/banjir
+ALR0037,2024-02,Borneo,2.08,0.927,0.206,0.0,1.0,0.737,Penebangan selektif
+ALR0038,2025-01,Amazon,2.28,1.0,0.314,0.0,0.897,0.458,Penebangan selektif
+ALR0039,2024-05,Borneo,4.3,0.202,0.442,1.0,0.742,0.753,Gangguan alami/banjir
+ALR0040,2024-06,Borneo,3.18,0.594,0.0,0.104,0.296,0.493,Pertanian skala besar
+ALR0041,2024-12,Asia Tenggara,7.9,0.45,0.185,0.0,0.996,0.776,Pertambangan
+ALR0042,2024-01,Cekungan Kongo,8.2,0.724,0.0,0.265,0.319,0.871,Pertanian skala besar
+ALR0043,2025-07,Amazon,8.69,0.409,0.25,0.156,1.0,0.632,Pertanian skala besar
+ALR0044,2024-09,Cekungan Kongo,2.43,0.647,0.374,0.0,0.117,0.596,Pertambangan
+ALR0045,2025-01,Amerika Selatan,1.46,0.234,0.086,0.398,1.0,0.843,Pertanian skala kecil
+ALR0046,2025-07,Amerika Selatan,3.5,0.572,0.0,0.464,0.439,0.76,Penebangan selektif
+ALR0047,2023-01,Amazon,1.62,0.949,0.377,0.0,0.724,0.877,Penebangan selektif
+ALR0048,2024-07,Cekungan Kongo,1.26,0.628,0.279,0.027,,0.489,Pertanian skala kecil
+ALR0049,2024-05,Cekungan Kongo,6.02,0.38,0.966,0.0,0.825,0.78,Kebakaran
+ALR0050,2023-12,Amerika Selatan,1.54,1.0,0.251,0.303,0.795,0.959,Penebangan selektif
+ALR0051,2025-04,Amerika Selatan,4.81,0.757,0.0,0.142,0.628,0.712,Pertambangan
+ALR0052,2025-09,Asia Tenggara,3.13,0.765,0.0,0.273,0.135,0.732,Pertanian skala besar
+ALR0053,2024-09,Amerika Selatan,3.34,0.703,0.127,0.0,0.988,0.522,Penebangan selektif
+ALR0054,2024-12,Amazon,2.95,0.537,0.256,0.0,0.605,0.567,Penebangan selektif
+ALR0055,2025-12,Amazon,3.89,0.901,0.253,0.045,0.773,0.706,Penebangan selektif
+ALR0056,2025-05,Asia Tenggara,2.58,1.0,0.0,0.139,0.553,0.901,Pertambangan
+ALR0057,2024-12,Borneo,1.88,0.348,0.357,0.0,0.398,0.772,Penebangan selektif
+ALR0058,2025-08,Amerika Selatan,8.44,0.77,0.052,0.148,0.393,0.879,Pertanian skala besar
+ALR0059,2023-11,Cekungan Kongo,1.07,0.213,0.053,0.144,0.688,0.822,Pertanian skala kecil
+ALR0060,2023-06,Borneo,4.02,0.441,0.512,0.021,0.043,0.568,Kebakaran
+ALR0061,2023-07,Amazon,1.64,0.788,0.126,0.278,0.767,0.619,Penebangan selektif
+ALR0062,2023-11,Borneo,7.32,0.45,0.181,0.031,0.0,0.64,Pertanian skala besar
+ALR0063,2025-06,Asia Tenggara,1.14,0.705,0.232,0.0,0.0,0.799,Penebangan selektif
+ALR0064,2025-03,Cekungan Kongo,0.91,0.637,0.239,0.374,0.289,0.638,Pertanian skala kecil
+ALR0065,2025-12,Borneo,2.74,0.122,0.108,0.464,0.842,0.729,Gangguan alami/banjir
+ALR0066,2023-10,Asia Tenggara,2.51,0.243,0.151,1.0,1.0,0.577,Gangguan alami/banjir
+ALR0067,2023-06,Amerika Selatan,1.93,0.541,0.14,0.213,1.0,0.781,Pertanian skala kecil
+ALR0068,2024-07,Asia Tenggara,6.59,0.904,0.124,0.276,0.075,1.0,Pertanian skala besar
+ALR0069,2024-12,Cekungan Kongo,6.74,0.172,0.445,0.114,0.383,0.711,Kebakaran
+ALR0070,2025-11,Cekungan Kongo,7.69,0.664,0.378,0.021,0.597,0.589,Pertanian skala besar
+ALR0071,2024-04,Borneo,3.53,0.865,0.407,0.249,0.526,0.684,Penebangan selektif
+ALR0072,2023-01,Asia Tenggara,4.42,0.49,0.0,0.315,0.273,0.804,Pertanian skala besar
+ALR0073,2024-02,Cekungan Kongo,5.15,0.365,0.854,0.46,0.759,0.498,Kebakaran
+ALR0074,2025-12,Asia Tenggara,1.01,0.27,0.067,0.624,0.868,0.541,Gangguan alami/banjir
+ALR0075,2025-09,Amerika Selatan,3.13,0.108,0.0,0.92,0.864,0.617,Gangguan alami/banjir
+ALR0076,2025-07,Cekungan Kongo,9.75,0.718,0.253,0.0,1.0,1.0,Pertambangan
+ALR0077,2024-10,Amerika Selatan,1.35,0.274,0.026,0.176,0.557,0.875,Pertanian skala kecil
+ALR0078,2023-04,Cekungan Kongo,2.04,0.026,0.356,0.514,0.447,0.801,Gangguan alami/banjir
+ALR0079,2024-10,Borneo,1.94,0.266,0.0,0.06,0.096,0.687,Pertanian skala kecil
+ALR0080,2025-05,Borneo,6.5,0.642,0.197,0.519,0.942,0.599,Pertanian skala besar
+ALR0081,2023-01,Cekungan Kongo,7.52,0.566,0.0,0.0,0.189,0.663,Pertanian skala besar
+ALR0082,2023-12,Borneo,4.53,0.79,0.517,0.163,0.803,0.918,Pertambangan
+ALR0083,2023-03,Cekungan Kongo,3.06,0.513,0.155,0.0,0.659,0.649,Penebangan selektif
+ALR0084,2024-07,Asia Tenggara,2.63,0.457,0.0,0.185,0.527,0.748,Pertanian skala kecil
+ALR0085,2025-11,Amerika Selatan,2.23,0.49,0.322,0.088,0.497,0.55,Pertanian skala kecil
+ALR0086,2025-01,Asia Tenggara,4.51,0.694,0.425,0.115,0.301,0.745,Pertambangan
+ALR0087,2023-11,Amazon,1.01,0.677,0.376,0.111,0.863,0.169,Penebangan selektif
+ALR0088,2023-06,Amerika Selatan,3.42,0.574,0.066,0.081,0.579,0.365,Pertambangan
+ALR0089,2025-05,Amazon,3.84,0.933,0.139,0.0,0.508,0.973,Penebangan selektif
+ALR0090,2025-05,Amerika Selatan,1.95,0.098,0.071,0.617,0.849,0.55,Gangguan alami/banjir
+ALR0091,2025-04,Amazon,2.69,0.27,0.177,0.668,0.256,1.0,Gangguan alami/banjir
+ALR0092,2024-08,Asia Tenggara,1.34,,0.0,0.0,0.194,0.615,Pertanian skala kecil
+ALR0093,2025-06,Amazon,1.4,0.08,0.331,0.913,0.942,0.61,Gangguan alami/banjir
+ALR0094,2025-06,Amazon,6.41,0.5,0.269,0.355,0.6,0.639,Kebakaran
+ALR0095,2024-01,Cekungan Kongo,6.34,0.744,0.296,0.625,0.0,0.794,Pertambangan
+ALR0096,2025-07,Amerika Selatan,4.08,0.646,0.567,0.1,0.054,0.849,Pertambangan
+ALR0097,2024-12,Cekungan Kongo,1.44,0.867,0.073,0.173,0.724,0.859,Penebangan selektif
+ALR0098,2025-11,Amerika Selatan,2.12,0.053,0.367,0.558,0.418,0.322,Gangguan alami/banjir
+ALR0099,2025-02,Borneo,1.89,0.629,0.302,0.232,0.849,0.439,Pertanian skala kecil
+ALR0100,2023-03,Amazon,7.18,0.865,0.0,0.086,0.694,0.667,Pertambangan
+ALR0101,2023-09,Cekungan Kongo,6.04,0.457,0.606,0.0,0.027,0.782,Kebakaran
+ALR0102,2023-04,Asia Tenggara,1.29,0.609,0.083,0.334,0.606,0.761,Pertanian skala kecil
+ALR0103,2025-11,Cekungan Kongo,6.35,0.641,0.15,0.0,0.761,0.47,Pertambangan
+ALR0104,2025-03,Cekungan Kongo,6.58,0.504,0.006,0.0,0.631,0.875,Pertanian skala besar
+ALR0105,2024-03,Cekungan Kongo,6.63,0.127,0.846,0.329,0.67,0.553,Kebakaran
+ALR0106,2023-07,Cekungan Kongo,1.65,0.229,0.11,0.244,0.844,0.875,Pertanian skala kecil
+ALR0107,2024-12,Asia Tenggara,4.06,0.687,0.356,0.148,0.608,0.829,Pertambangan
+ALR0108,2024-04,Borneo,1.9,0.099,0.443,0.166,0.847,0.901,Kebakaran
+ALR0109,2025-04,Asia Tenggara,2.35,0.531,0.246,0.238,0.569,0.784,Pertambangan
+ALR0110,2025-09,Amerika Selatan,8.4,0.628,0.357,0.0,0.497,0.921,Pertanian skala besar
+ALR0111,2024-11,Amazon,5.22,0.87,0.43,0.494,0.568,0.575,Pertambangan
+ALR0112,2025-06,Asia Tenggara,5.94,0.302,0.068,0.402,0.409,0.774,Pertanian skala besar
+ALR0113,2025-03,Amerika Selatan,5.2,0.701,0.05,0.0,0.522,0.354,Pertambangan
+ALR0114,2025-09,Amerika Selatan,1.52,0.662,0.139,0.176,0.778,0.74,Pertanian skala kecil
+ALR0115,2023-01,Amerika Selatan,4.78,0.719,0.217,0.0,0.412,0.996,Pertanian skala besar
+ALR0116,2024-10,Cekungan Kongo,1.11,1.0,0.0,0.006,0.642,0.794,Pertanian skala kecil
+ALR0117,2024-10,Cekungan Kongo,0.73,0.351,0.295,0.173,0.154,0.754,Pertanian skala kecil
+ALR0118,2024-07,Amazon,1.27,0.562,0.001,0.612,0.53,0.966,Penebangan selektif
+ALR0119,2025-07,Borneo,2.17,0.04,0.0,0.292,0.794,0.726,Pertanian skala kecil
+ALR0120,2025-12,Amazon,2.35,0.906,0.149,0.396,0.603,0.643,Penebangan selektif
+ALR0121,2023-10,Amazon,2.83,0.811,0.017,0.314,0.706,0.76,Pertambangan
+ALR0122,2023-10,Amerika Selatan,2.22,0.137,0.051,0.895,0.604,0.866,Gangguan alami/banjir
+ALR0123,2025-08,Asia Tenggara,6.58,1.0,0.0,0.53,0.997,0.663,Pertanian skala besar
+ALR0124,2024-06,Borneo,4.55,0.761,0.209,0.375,0.852,0.576,Pertanian skala besar
+ALR0125,2025-06,Amazon,6.36,0.508,0.059,0.0,1.0,1.0,Pertanian skala besar
+ALR0126,2024-03,Cekungan Kongo,1.31,0.508,0.257,0.0,1.0,0.765,Pertanian skala kecil
+ALR0127,2024-06,Borneo,6.72,0.697,0.436,0.141,0.714,0.904,Pertambangan
+ALR0128,2024-02,Cekungan Kongo,4.15,0.358,0.845,0.209,0.842,0.911,Kebakaran
+ALR0129,2024-10,Asia Tenggara,2.46,0.843,0.277,0.0,1.0,0.723,Penebangan selektif
+ALR0130,2025-10,Amazon,1.92,0.9,0.0,0.218,0.552,0.52,Penebangan selektif
+ALR0131,2024-02,Amazon,2.32,0.191,0.0,0.997,0.859,0.426,Gangguan alami/banjir
+ALR0132,2024-08,Amazon,7.0,0.541,0.216,0.638,0.594,0.558,Pertambangan
+ALR0133,2024-12,Borneo,5.08,0.251,0.847,0.0,0.545,0.74,Kebakaran
+ALR0134,2023-02,Cekungan Kongo,4.6,0.0,0.0,1.0,0.767,0.425,Gangguan alami/banjir
+ALR0135,2024-10,Borneo,1.74,0.53,0.0,0.0,1.0,0.404,Pertanian skala kecil
+ALR0136,2024-02,Amerika Selatan,4.89,0.362,0.357,0.215,1.0,0.721,Pertambangan
+ALR0137,2025-04,Borneo,8.59,0.735,0.244,0.051,0.44,0.626,Pertambangan
+ALR0138,2024-11,Amerika Selatan,4.87,0.222,0.955,0.112,1.0,1.0,Kebakaran
+ALR0139,2025-07,Borneo,10.33,0.524,0.0,0.0,1.0,0.845,Pertanian skala besar
+ALR0140,2024-06,Amazon,5.76,0.505,0.285,0.06,0.619,0.347,Pertambangan
+ALR0141,2024-11,Cekungan Kongo,4.26,0.507,0.324,0.438,0.373,0.689,Pertambangan
+ALR0142,2024-11,Asia Tenggara,5.06,0.709,0.0,0.0,0.686,0.807,Pertanian skala besar
+ALR0143,2025-11,Amerika Selatan,1.78,0.44,0.43,0.161,0.147,0.732,Pertanian skala kecil
+ALR0144,2025-07,Amerika Selatan,1.79,0.538,0.173,0.067,0.541,0.462,Pertanian skala besar
+ALR0145,2025-01,Amerika Selatan,3.52,0.093,0.152,0.438,0.73,0.903,Gangguan alami/banjir
+ALR0146,2024-03,Amazon,0.84,0.435,0.176,0.068,0.301,0.558,Pertanian skala kecil
+ALR0147,2024-01,Amerika Selatan,1.2,0.496,0.145,0.107,0.482,0.658,Pertanian skala kecil
+ALR0148,2024-01,Borneo,4.96,0.63,0.315,0.21,0.636,0.658,Pertanian skala besar
+ALR0149,2024-03,Asia Tenggara,2.05,0.61,0.014,0.115,0.754,0.482,Pertanian skala kecil
+ALR0150,2025-04,Amerika Selatan,6.65,0.889,0.252,0.0,0.748,0.406,Pertanian skala besar
+ALR0151,2023-06,,2.47,0.21,0.0,0.827,0.54,1.0,Gangguan alami/banjir
+ALR0152,2023-12,Cekungan Kongo,3.49,0.828,0.429,0.0,0.688,0.635,Pertanian skala besar
+ALR0153,2023-08,Borneo,1.55,1.0,0.023,0.047,0.611,0.586,Penebangan selektif
+ALR0154,2024-01,Asia Tenggara,2.09,0.473,0.368,0.069,0.238,0.61,Pertanian skala kecil
+ALR0155,2023-07,Borneo,4.92,0.736,0.0,0.141,0.384,0.937,Pertambangan
+ALR0156,2024-06,Asia Tenggara,2.22,0.635,0.391,0.078,0.242,0.978,Pertanian skala kecil
+ALR0157,2025-05,Asia Tenggara,3.32,0.348,0.655,0.383,0.943,0.761,Kebakaran
+ALR0158,2024-10,Amerika Selatan,1.46,0.651,0.0,0.0,0.818,0.5,Penebangan selektif
+ALR0159,2025-05,Amerika Selatan,2.52,0.255,0.0,0.0,0.424,0.656,Pertanian skala kecil
+ALR0160,2025-02,Cekungan Kongo,5.79,0.47,0.509,0.31,0.441,0.857,Kebakaran
+ALR0161,2024-07,Amazon,0.32,0.835,0.467,0.0,0.778,0.904,Penebangan selektif
+ALR0162,2023-12,Cekungan Kongo,1.47,0.691,0.036,0.293,0.515,0.564,Penebangan selektif
+ALR0163,2024-05,Asia Tenggara,6.33,0.472,0.059,0.301,0.177,0.571,Pertanian skala besar
+ALR0164,2025-07,Amerika Selatan,4.16,0.388,0.804,0.083,0.718,0.655,Kebakaran
+ALR0165,2024-03,Cekungan Kongo,4.8,0.747,0.392,0.314,0.676,0.794,Pertanian skala besar
+ALR0166,2024-02,Amazon,0.76,0.385,0.0,0.0,0.853,0.596,Pertanian skala kecil
+ALR0167,2023-07,Borneo,3.46,0.264,0.058,0.905,0.235,0.849,Gangguan alami/banjir
+ALR0168,2023-12,Amerika Selatan,2.33,0.628,0.078,0.084,0.78,0.683,Pertanian skala kecil
+ALR0169,2025-01,Asia Tenggara,0.81,0.359,0.29,0.117,0.674,0.891,Pertanian skala kecil
+ALR0170,2025-02,Asia Tenggara,1.39,0.575,0.077,0.15,0.191,0.958,Penebangan selektif
+ALR0171,2025-05,Amazon,1.25,0.481,0.367,0.232,0.637,0.622,Pertanian skala kecil
+ALR0172,2023-07,Asia Tenggara,9.46,0.432,0.133,0.578,0.264,0.866,Pertanian skala besar
+ALR0173,2023-03,Amazon,2.47,0.743,0.468,0.0,1.0,0.95,Penebangan selektif
+ALR0174,2024-11,Borneo,3.81,0.319,0.143,0.79,0.945,0.833,Gangguan alami/banjir
+ALR0175,2025-08,Cekungan Kongo,2.34,0.201,0.14,0.576,1.0,0.711,Gangguan alami/banjir
+ALR0176,2025-08,Amazon,1.33,0.745,0.052,0.0,0.643,0.947,Pertanian skala kecil
+ALR0177,2023-09,Borneo,6.36,0.225,0.954,0.148,1.0,0.689,Kebakaran
+ALR0178,2024-01,Amerika Selatan,3.04,0.432,0.136,0.0,1.0,0.778,Pertanian skala kecil
+ALR0179,2024-02,Cekungan Kongo,4.61,0.607,0.951,0.586,0.457,0.895,Kebakaran
+ALR0180,2023-02,Borneo,4.96,0.653,0.364,0.451,0.798,0.822,Pertanian skala besar
+ALR0181,2023-08,Cekungan Kongo,7.67,0.641,0.183,0.16,0.641,0.897,Pertambangan
+ALR0182,2025-03,Asia Tenggara,3.94,0.341,0.166,0.569,0.631,0.611,Pertambangan
+ALR0183,2025-09,Cekungan Kongo,5.89,0.149,0.439,0.08,1.0,0.768,Kebakaran
+ALR0184,2024-06,Amerika Selatan,2.31,0.239,0.056,0.825,0.743,0.907,Gangguan alami/banjir
+ALR0185,2025-02,Amazon,9.04,0.646,0.0,0.213,0.525,0.681,Pertanian skala besar
+ALR0186,2023-05,Cekungan Kongo,5.88,0.648,0.0,0.071,1.0,0.453,Pertambangan
+ALR0187,2025-01,Asia Tenggara,6.84,0.193,0.854,0.184,0.0,0.723,Kebakaran
+ALR0188,2025-02,Amazon,1.97,0.185,0.262,0.323,0.096,0.593,Pertanian skala kecil
+ALR0189,2023-03,Cekungan Kongo,2.83,0.544,0.096,0.0,0.988,0.328,Pertambangan
+ALR0190,2024-08,Amerika Selatan,5.4,0.709,0.296,0.49,0.0,0.795,Pertanian skala besar
+ALR0191,2024-11,Amazon,1.27,0.16,0.0,0.042,1.0,0.737,Pertanian skala kecil
+ALR0192,2025-12,Amazon,2.74,1.0,0.0,0.345,0.715,0.809,Penebangan selektif
+ALR0193,2023-09,Cekungan Kongo,2.25,0.781,0.261,0.131,0.69,0.324,Penebangan selektif
+ALR0194,2024-01,Amazon,3.1,0.842,0.438,0.0,1.0,0.939,Penebangan selektif
+ALR0195,2024-02,Borneo,7.11,0.469,0.367,0.118,0.764,0.636,Pertambangan
+ALR0196,2023-09,Amerika Selatan,3.31,0.682,0.203,0.287,0.679,0.927,Penebangan selektif
+ALR0197,2023-09,Asia Tenggara,2.22,0.009,0.203,1.0,1.0,0.976,Gangguan alami/banjir
+ALR0198,2023-10,Cekungan Kongo,0.95,0.446,0.0,0.241,0.926,0.685,Pertanian skala kecil
+ALR0199,2024-10,Borneo,7.86,0.392,0.04,0.283,0.831,0.88,Pertanian skala besar
+ALR0200,2025-10,Amazon,10.63,0.277,0.162,0.214,0.267,0.619,Pertanian skala besar
+ALR0201,2023-06,Amazon,5.01,0.381,0.642,0.25,0.072,0.675,Kebakaran
+ALR0202,2024-10,Amazon,4.0,0.769,0.48,0.073,0.416,0.834,Pertambangan
+ALR0203,2025-10,Borneo,3.12,0.356,0.0,0.409,0.235,0.283,Pertanian skala kecil
+ALR0204,2023-01,Asia Tenggara,4.97,0.362,0.62,0.463,0.683,0.435,Kebakaran
+ALR0205,2025-12,Asia Tenggara,3.16,0.591,0.824,0.04,1.0,0.739,Kebakaran
+ALR0206,2024-01,Cekungan Kongo,8.52,0.411,0.954,0.095,0.423,0.705,Kebakaran
+ALR0207,2024-12,Asia Tenggara,1.74,0.444,0.127,0.0,0.592,0.499,Pertanian skala kecil
+ALR0208,2024-04,Amerika Selatan,1.37,0.671,0.281,0.044,0.903,0.589,Pertanian skala kecil
+ALR0209,2024-07,Cekungan Kongo,1.18,0.371,0.0,0.493,,0.503,Gangguan alami/banjir
+ALR0210,2023-12,Amerika Selatan,6.91,0.381,0.68,0.198,0.466,0.53,Kebakaran
+ALR0211,2025-10,Cekungan Kongo,2.88,0.607,0.115,0.023,1.0,0.941,Pertanian skala kecil
+ALR0212,2024-08,Borneo,2.94,0.514,0.127,0.494,0.856,0.876,Penebangan selektif
+ALR0213,2023-02,Asia Tenggara,7.16,0.513,0.0,0.0,0.921,0.751,Pertanian skala besar
+ALR0214,2025-08,Borneo,3.94,0.295,0.274,0.564,0.606,0.874,Pertanian skala besar
+ALR0215,2024-05,Asia Tenggara,1.02,0.383,0.355,0.228,0.138,0.556,Pertanian skala kecil
+ALR0216,2024-10,Cekungan Kongo,7.7,0.382,0.13,0.0,0.652,0.667,Pertanian skala besar
+ALR0217,2024-11,Cekungan Kongo,7.47,0.533,0.0,0.261,1.0,0.745,Pertanian skala besar
+ALR0218,2023-02,Cekungan Kongo,1.9,0.12,0.382,0.651,0.432,0.686,Gangguan alami/banjir
+ALR0219,2023-05,Amerika Selatan,1.97,0.721,0.117,0.213,1.0,1.0,Penebangan selektif
+ALR0220,2023-09,Amazon,2.04,0.27,0.049,0.0,0.379,0.841,Pertanian skala kecil
+ALR0221,2023-08,Amazon,2.05,0.643,0.231,0.294,0.021,0.784,Penebangan selektif
+ALR0222,2025-04,Amerika Selatan,3.33,0.718,0.141,0.573,0.956,0.673,Penebangan selektif
+ALR0223,2025-05,Borneo,5.23,0.798,0.349,0.0,0.0,0.821,Pertambangan
+ALR0224,2025-12,Borneo,1.99,0.701,0.117,0.53,0.505,0.694,Penebangan selektif
+ALR0225,2024-01,Borneo,3.6,0.482,0.263,0.0,0.877,0.56,Penebangan selektif
+ALR0226,2025-11,Amazon,4.22,0.431,0.081,0.012,1.0,0.72,Pertanian skala besar
+ALR0227,2023-08,Amerika Selatan,3.27,0.722,0.249,0.0,0.362,0.374,Penebangan selektif
+ALR0228,2023-06,Amazon,2.58,0.53,0.458,0.743,0.558,0.278,Gangguan alami/banjir
+ALR0229,2023-02,Asia Tenggara,2.34,0.656,0.0,0.157,0.78,0.539,Penebangan selektif
+ALR0230,2023-08,Borneo,3.43,0.218,0.0,0.543,0.642,0.725,Gangguan alami/banjir
+ALR0231,2023-07,Borneo,1.44,0.492,0.0,0.0,0.642,0.639,Pertanian skala kecil
+ALR0232,2023-10,Asia Tenggara,1.29,0.471,0.237,0.48,0.927,1.0,Pertanian skala kecil
+ALR0233,2023-05,Borneo,4.08,0.276,0.759,0.032,0.586,0.596,Kebakaran
+ALR0234,2025-09,Cekungan Kongo,1.89,0.584,0.0,0.141,0.406,0.792,Penebangan selektif
+ALR0235,2024-10,Asia Tenggara,2.05,0.754,0.0,0.203,0.332,0.948,Penebangan selektif
+ALR0236,2023-06,Amerika Selatan,4.98,0.417,0.006,0.09,0.485,0.544,Pertanian skala besar
+ALR0237,2023-05,Cekungan Kongo,5.51,0.494,0.0,0.222,0.982,0.931,Pertanian skala besar
+ALR0238,2025-08,Amazon,6.88,0.781,0.401,0.146,0.875,0.951,Pertambangan
+ALR0239,2024-12,Amerika Selatan,5.38,0.564,0.419,0.504,0.872,0.706,Pertanian skala besar
+ALR0240,2023-05,Borneo,3.05,1.0,0.271,0.072,0.869,0.762,Penebangan selektif
+ALR0241,2024-01,Asia Tenggara,7.71,0.392,0.899,0.545,0.522,0.461,Kebakaran
+ALR0242,2024-07,Asia Tenggara,1.11,0.318,0.0,0.908,0.986,0.832,Gangguan alami/banjir
+ALR0243,2024-03,Cekungan Kongo,3.35,0.015,0.0,0.633,0.414,0.83,Gangguan alami/banjir
+ALR0244,2025-11,Cekungan Kongo,2.67,0.819,0.132,0.201,1.0,0.773,Penebangan selektif
+ALR0245,2023-10,Borneo,1.3,0.173,0.396,0.0,0.179,0.755,Pertanian skala kecil
+ALR0246,2025-03,Amazon,1.75,0.182,0.094,0.148,0.796,0.915,Pertanian skala kecil
+ALR0247,2025-08,Amerika Selatan,1.39,0.783,0.238,0.057,0.599,0.478,Penebangan selektif
+ALR0248,2025-11,Cekungan Kongo,1.47,0.358,0.075,0.0,1.0,0.597,Pertanian skala kecil
+ALR0249,2023-01,Amerika Selatan,1.52,0.552,0.029,0.0,0.395,0.876,Pertanian skala kecil
+ALR0250,2024-08,Asia Tenggara,1.79,0.446,0.187,0.496,0.0,0.572,Pertanian skala kecil
+ALR0251,2024-09,Amerika Selatan,3.41,0.335,0.27,0.718,0.381,0.559,Gangguan alami/banjir
+ALR0252,2025-05,Asia Tenggara,1.95,0.376,0.0,0.35,1.0,0.71,Pertanian skala kecil
+ALR0253,2023-08,Amerika Selatan,0.89,0.704,0.283,0.377,0.735,0.779,Pertanian skala kecil
+ALR0254,2025-05,Cekungan Kongo,2.68,0.113,0.004,1.0,0.576,0.462,Gangguan alami/banjir
+ALR0255,2023-12,Cekungan Kongo,5.0,0.525,0.0,0.131,0.538,0.57,Pertambangan
+ALR0256,2023-11,Asia Tenggara,5.84,0.26,0.944,0.074,0.568,0.437,Kebakaran
+ALR0257,2025-01,Cekungan Kongo,8.13,0.626,0.133,0.0,0.648,0.761,Pertanian skala besar
+ALR0258,2023-06,Asia Tenggara,2.18,0.416,0.0,0.527,0.548,0.903,Gangguan alami/banjir
+ALR0259,2024-01,Asia Tenggara,4.11,0.155,0.367,0.631,1.0,0.673,Gangguan alami/banjir
+ALR0260,2023-11,Amerika Selatan,4.24,0.618,0.041,0.105,0.385,0.832,Penebangan selektif
+ALR0261,2023-08,Amerika Selatan,2.67,0.393,0.487,0.479,0.455,0.835,Gangguan alami/banjir
+ALR0262,2025-10,Borneo,2.67,0.847,0.029,0.437,1.0,0.45,Penebangan selektif
+ALR0263,2025-02,Amerika Selatan,0.87,0.908,0.0,0.0,1.0,0.583,Penebangan selektif
+ALR0264,2023-10,Borneo,6.17,0.346,0.539,0.0,0.781,0.594,Kebakaran
+ALR0265,2025-12,Borneo,2.41,0.762,0.293,0.336,0.611,1.0,Pertambangan
+ALR0266,2024-03,Amerika Selatan,2.15,0.376,0.0,0.035,0.49,0.777,Pertanian skala kecil
+ALR0267,2023-09,Amazon,1.5,0.911,0.0,0.602,0.785,0.899,Penebangan selektif
+ALR0268,2023-06,Cekungan Kongo,1.63,0.38,0.184,0.197,0.0,0.702,Pertanian skala kecil
+ALR0269,2024-06,Asia Tenggara,10.16,0.492,0.965,0.283,0.523,0.861,Kebakaran
+ALR0270,2023-01,Amerika Selatan,2.76,0.918,0.372,0.182,0.955,0.995,Penebangan selektif
+ALR0271,2025-07,Amazon,2.53,0.497,0.283,0.367,0.293,0.904,Pertanian skala kecil
+ALR0272,2024-11,Cekungan Kongo,3.79,0.082,0.201,0.706,0.499,0.469,Gangguan alami/banjir
+ALR0273,2023-10,Borneo,3.36,0.075,0.386,0.631,0.101,0.923,Gangguan alami/banjir
+ALR0274,2025-12,Borneo,4.63,0.614,0.392,0.373,0.0,0.768,Kebakaran
+ALR0275,2023-09,Amerika Selatan,1.64,0.547,0.306,0.44,0.512,0.87,Penebangan selektif
+ALR0276,2023-01,Borneo,2.03,0.435,0.0,0.0,0.49,1.0,Pertambangan
+ALR0277,2025-12,Amazon,2.46,0.567,0.0,0.0,1.0,0.801,Pertanian skala kecil
+ALR0278,2024-06,Cekungan Kongo,1.87,0.493,0.0,0.197,0.296,0.223,Pertanian skala kecil
+ALR0279,2024-01,Cekungan Kongo,1.87,0.186,0.0,0.225,0.771,1.0,Pertanian skala besar
+ALR0280,2023-07,Amazon,10.91,0.656,0.382,0.538,0.695,0.497,Pertanian skala besar
+ALR0281,2025-07,Amazon,7.76,0.644,0.807,0.265,0.266,0.846,Kebakaran
+ALR0282,2023-04,Amerika Selatan,1.66,0.292,0.672,0.047,0.684,0.75,Pertanian skala kecil
+ALR0283,2023-05,Borneo,1.59,0.543,0.516,0.105,1.0,0.532,Pertanian skala kecil
+ALR0284,2023-11,Cekungan Kongo,3.36,0.679,0.346,0.0,0.46,0.423,Pertambangan
+ALR0285,2024-07,Asia Tenggara,3.69,0.269,0.193,0.901,0.861,1.0,Gangguan alami/banjir
+ALR0286,2023-01,Amerika Selatan,0.2,0.457,0.982,0.294,0.481,0.728,Kebakaran
+ALR0287,2024-11,Amazon,6.85,0.004,0.85,0.474,1.0,0.589,Kebakaran
+ALR0288,2025-01,Amerika Selatan,3.84,0.533,0.0,0.771,0.86,0.956,Gangguan alami/banjir
+ALR0289,2025-03,Cekungan Kongo,2.06,0.722,0.0,0.358,0.783,0.807,Penebangan selektif
+ALR0290,2023-08,Asia Tenggara,5.1,0.259,0.647,0.405,0.765,0.862,Kebakaran
+ALR0291,2025-10,Asia Tenggara,9.94,0.357,0.0,0.262,0.821,0.964,Pertanian skala besar
+ALR0292,2023-03,Amazon,6.81,0.654,0.386,0.379,0.0,0.39,Pertanian skala besar
+ALR0293,2025-06,Amerika Selatan,2.27,0.122,0.0,0.746,0.0,0.651,Gangguan alami/banjir
+ALR0294,2024-08,Borneo,2.62,0.905,0.143,0.081,0.0,0.722,Penebangan selektif
+ALR0295,2023-10,Cekungan Kongo,6.54,0.479,0.853,0.227,0.47,0.51,Kebakaran
+ALR0296,2024-08,Borneo,3.44,0.66,0.284,0.0,0.496,0.842,Penebangan selektif
+ALR0297,2025-01,Borneo,0.99,0.499,0.0,0.334,0.613,0.9,Pertanian skala kecil
+ALR0298,2025-02,Amazon,1.33,0.377,0.395,0.274,0.707,0.607,Pertanian skala kecil
+ALR0299,2025-06,Cekungan Kongo,4.6,0.75,0.0,0.267,1.0,0.499,Penebangan selektif
+ALR0300,2024-02,Borneo,3.15,0.954,0.316,0.139,1.0,0.694,Pertambangan
+ALR0301,2024-06,Asia Tenggara,1.65,0.376,0.94,0.0,1.0,0.45,Kebakaran
+ALR0302,2024-08,Amerika Selatan,6.14,0.505,0.033,0.0,0.734,0.734,Pertanian skala besar
+ALR0303,2023-07,Asia Tenggara,1.41,0.468,0.403,0.45,0.779,0.461,Pertanian skala kecil
+ALR0304,2025-10,Cekungan Kongo,0.86,0.71,0.0,0.01,0.802,0.948,Penebangan selektif
+ALR0305,2024-07,Borneo,1.47,,0.0,0.551,0.671,0.838,Pertanian skala kecil
+ALR0306,2023-09,Asia Tenggara,5.54,0.537,0.0,0.201,0.61,0.795,Pertanian skala besar
+ALR0307,2023-02,Cekungan Kongo,1.89,0.932,0.249,0.193,0.295,0.587,Penebangan selektif
+ALR0308,2025-05,Asia Tenggara,7.52,0.817,0.193,0.09,0.0,0.924,Pertanian skala besar
+ALR0309,2023-12,Amerika Selatan,4.1,0.937,0.021,0.147,0.322,0.958,Penebangan selektif
+ALR0310,2024-05,Asia Tenggara,2.04,0.491,0.211,0.321,0.448,0.773,Pertanian skala kecil
+ALR0311,2023-02,Asia Tenggara,1.8,0.368,0.173,0.302,0.658,0.632,Pertanian skala kecil
+ALR0312,2023-08,Amerika Selatan,4.64,0.03,0.867,0.435,0.784,0.592,Kebakaran
+ALR0313,2023-03,Amazon,2.38,0.971,0.044,0.315,0.61,0.735,Penebangan selektif
+ALR0314,2023-06,Amazon,1.98,0.394,0.019,0.46,0.763,0.615,Gangguan alami/banjir
+ALR0315,2025-08,Amerika Selatan,0.2,0.201,0.618,0.336,0.903,0.352,Kebakaran
+ALR0316,2023-09,Cekungan Kongo,2.52,0.298,0.205,0.262,0.769,0.566,Pertanian skala kecil
+ALR0317,2024-02,Asia Tenggara,6.56,0.659,0.527,0.0,0.232,0.715,Pertanian skala besar
+ALR0318,2024-08,Amerika Selatan,3.45,0.564,0.0,0.112,0.0,0.974,Penebangan selektif
+ALR0319,2023-07,Amerika Selatan,3.3,0.311,0.0,0.606,0.285,0.662,Pertanian skala kecil
+ALR0320,2025-05,Cekungan Kongo,0.9,0.326,0.55,0.214,0.592,0.745,Pertanian skala kecil
+ALR0321,2023-06,Amerika Selatan,6.36,0.317,0.795,0.422,0.309,0.612,Kebakaran
+ALR0322,2025-10,Cekungan Kongo,2.13,0.497,0.996,0.012,1.0,0.693,Kebakaran
+ALR0323,2023-11,Cekungan Kongo,7.79,0.856,0.262,0.418,0.968,0.707,Pertanian skala besar
+ALR0324,2023-08,Asia Tenggara,5.39,1.0,0.207,0.411,0.367,0.822,Pertambangan
+ALR0325,2024-09,Borneo,2.41,1.0,0.0,0.263,0.305,0.618,Penebangan selektif
+ALR0326,2024-07,Borneo,3.5,0.633,0.817,0.474,0.973,0.848,Kebakaran
+ALR0327,2025-02,Borneo,10.94,1.0,0.378,0.0,0.2,0.579,Pertanian skala besar
+ALR0328,2025-01,Asia Tenggara,3.57,0.611,0.0,0.043,0.35,0.994,Penebangan selektif
+ALR0329,2025-02,Amazon,3.05,0.126,0.126,0.697,0.904,0.64,Gangguan alami/banjir
+ALR0330,2023-08,Amerika Selatan,3.63,0.572,1.0,0.617,0.219,0.558,Kebakaran
+ALR0331,2025-02,Amerika Selatan,6.89,0.403,0.319,0.243,0.175,0.88,Pertanian skala besar
+ALR0332,2023-03,Borneo,3.16,0.372,0.234,0.672,0.795,0.625,Gangguan alami/banjir
+ALR0333,2025-02,Borneo,7.09,0.699,0.174,0.191,1.0,0.86,Pertanian skala besar
+ALR0334,2023-07,Borneo,7.36,0.89,0.268,0.338,0.831,0.49,Pertambangan
+ALR0335,2024-04,Cekungan Kongo,6.77,0.676,0.28,0.175,0.556,0.816,Pertambangan
+ALR0336,2023-12,Amerika Selatan,6.48,0.388,0.173,0.213,0.271,0.414,Pertanian skala besar
+ALR0337,2023-08,Amazon,4.9,0.427,0.841,0.0,0.732,1.0,Kebakaran
+ALR0338,2025-05,Asia Tenggara,3.68,0.881,0.074,0.13,0.668,0.384,Penebangan selektif
+ALR0339,2025-06,Borneo,3.17,0.335,0.304,1.0,1.0,0.853,Gangguan alami/banjir
+ALR0340,2025-11,Amazon,1.55,0.267,0.284,0.755,0.604,0.58,Gangguan alami/banjir
+ALR0341,2024-09,Amerika Selatan,3.49,0.425,0.007,1.0,0.778,0.928,Gangguan alami/banjir
+ALR0342,2025-02,Asia Tenggara,5.32,0.365,0.408,0.827,0.876,0.72,Gangguan alami/banjir
+ALR0343,2025-07,Asia Tenggara,1.28,0.0,0.147,0.108,0.007,0.653,Pertanian skala kecil
+ALR0344,2025-08,Cekungan Kongo,3.35,0.802,0.105,0.073,0.675,0.998,Pertambangan
+ALR0345,2023-04,Amazon,4.01,0.37,0.941,0.184,0.38,0.858,Kebakaran
+ALR0346,2024-04,Asia Tenggara,1.35,0.76,0.032,0.342,0.659,0.854,Penebangan selektif
+ALR0347,2023-11,Cekungan Kongo,2.4,1.0,0.07,0.031,1.0,0.587,Penebangan selektif
+ALR0348,2025-07,Asia Tenggara,2.48,0.514,0.129,0.0,0.486,0.755,Pertanian skala kecil
+ALR0349,2025-03,Borneo,1.76,0.484,0.282,0.0,0.93,0.693,Pertanian skala kecil
+ALR0350,2024-01,Asia Tenggara,8.28,0.628,0.977,0.203,0.603,0.757,Kebakaran
+ALR0351,2023-01,Cekungan Kongo,1.51,0.32,0.246,0.0,0.47,0.794,Pertanian skala kecil
+ALR0352,2024-06,Borneo,4.33,0.786,0.064,0.068,0.666,0.55,Pertambangan
+ALR0353,2025-10,Amazon,1.05,0.289,0.403,0.308,0.521,0.893,Pertanian skala kecil
+ALR0354,2024-03,Amerika Selatan,7.75,0.492,0.468,0.268,0.713,0.593,Pertanian skala besar
+ALR0355,2023-11,Borneo,1.96,0.664,0.267,0.025,0.64,0.715,Pertanian skala kecil
+ALR0356,2025-12,Borneo,4.72,0.828,0.249,0.0,0.0,0.738,Pertambangan
+ALR0357,2025-03,Borneo,5.11,0.385,0.203,0.155,0.589,1.0,Pertanian skala besar
+ALR0358,2023-05,Amazon,1.24,0.66,0.167,0.155,0.3,0.666,Penebangan selektif
+ALR0359,2024-11,Borneo,8.41,0.655,0.0,0.351,0.989,0.637,Pertanian skala besar
+ALR0360,2024-07,Amazon,2.6,0.918,0.213,0.0,0.585,0.462,Penebangan selektif
+ALR0361,2023-07,Amazon,6.54,0.973,0.052,0.117,0.438,0.744,Pertambangan
+ALR0362,2024-04,Asia Tenggara,1.54,0.493,0.078,0.404,0.104,0.977,Pertanian skala kecil
+ALR0363,2025-08,Amazon,9.57,0.483,1.0,0.323,0.984,0.542,Kebakaran
+ALR0364,2025-08,Borneo,5.91,0.53,1.0,0.271,0.716,0.816,Kebakaran
+ALR0365,2024-04,Amazon,2.93,0.364,0.392,1.0,0.959,1.0,Gangguan alami/banjir
+ALR0366,2025-01,Asia Tenggara,11.11,0.634,0.0,0.208,0.421,0.725,Pertanian skala besar
+ALR0367,2025-07,Amerika Selatan,8.29,0.303,0.779,0.391,0.436,0.373,Kebakaran
+ALR0368,2025-08,Amazon,2.3,0.372,0.0,0.252,0.374,0.577,Pertanian skala kecil
+ALR0369,2023-09,Borneo,2.34,0.389,0.368,0.684,0.298,0.934,Gangguan alami/banjir
+ALR0370,2023-11,Borneo,1.35,0.289,0.08,0.271,1.0,0.836,Pertanian skala kecil
+ALR0371,2023-02,Cekungan Kongo,10.17,0.403,0.188,0.354,0.643,0.504,Pertanian skala besar
+ALR0372,2023-02,Borneo,2.11,0.435,0.125,0.219,0.623,0.855,Pertanian skala kecil
+ALR0373,2023-12,Asia Tenggara,3.16,0.116,0.712,0.317,0.786,0.889,Kebakaran
+ALR0374,2025-03,Amerika Selatan,3.38,0.691,0.0,0.0,0.78,0.644,Penebangan selektif
+ALR0375,2023-01,Asia Tenggara,1.61,0.143,0.0,1.0,0.3,0.69,Gangguan alami/banjir
+ALR0376,2024-08,Amazon,3.04,0.405,0.285,0.086,0.09,1.0,Pertanian skala kecil
+ALR0377,2025-02,Borneo,0.85,0.047,0.037,0.797,0.266,0.756,Gangguan alami/banjir
+ALR0378,2023-08,Borneo,8.62,0.453,0.0,0.384,0.029,0.639,Pertanian skala besar
+ALR0379,2023-08,Borneo,2.14,0.548,0.451,0.327,0.475,0.9,Pertanian skala kecil
+ALR0380,2023-02,Borneo,2.71,0.683,0.0,0.411,0.495,1.0,Pertambangan
+ALR0381,2024-11,Asia Tenggara,1.54,0.447,0.12,0.424,0.497,0.858,Pertanian skala kecil
+ALR0382,2024-03,Amerika Selatan,2.06,0.88,0.24,0.203,0.763,0.498,Penebangan selektif
+ALR0383,2023-05,Cekungan Kongo,2.31,0.757,0.29,0.128,0.562,0.762,Penebangan selektif
+ALR0384,2024-04,Borneo,0.62,0.362,0.17,0.133,1.0,0.728,Pertanian skala kecil
+ALR0385,2023-11,Asia Tenggara,2.93,0.95,0.301,0.499,0.591,0.761,Penebangan selektif
+ALR0386,2024-04,Amazon,7.25,0.119,0.51,0.269,0.294,0.57,Pertanian skala besar
+ALR0387,2024-12,Amazon,6.08,0.468,0.184,0.263,0.816,0.692,Pertanian skala besar
+ALR0388,2025-03,Cekungan Kongo,3.97,0.425,0.114,0.78,0.753,0.898,Gangguan alami/banjir
+ALR0389,2025-02,Borneo,2.97,0.768,0.441,0.0,0.275,1.0,Pertambangan
+ALR0390,2025-11,Borneo,1.49,0.614,0.085,0.327,1.0,0.607,Pertanian skala kecil
+ALR0391,2024-07,Amazon,3.41,0.384,0.762,0.0,0.707,0.723,Kebakaran
+ALR0392,2025-12,Borneo,4.73,0.43,0.034,0.42,1.0,0.769,Pertanian skala besar
+ALR0393,2025-12,Asia Tenggara,5.31,0.594,0.161,0.056,0.172,0.983,Pertambangan
+ALR0394,2023-11,Amazon,7.16,0.599,0.021,0.0,1.0,0.815,Pertanian skala besar
+ALR0395,2024-10,Amazon,3.34,0.652,0.371,0.408,0.606,0.812,Pertambangan
+ALR0396,2023-08,Borneo,4.16,0.991,0.039,0.211,0.982,0.769,Pertambangan
+ALR0397,2023-09,Borneo,4.51,0.724,0.153,0.079,0.82,0.642,Pertanian skala besar
+ALR0398,2023-07,Borneo,5.81,0.192,0.533,0.061,0.925,0.378,Kebakaran
+ALR0399,2023-06,Asia Tenggara,4.92,0.644,0.0,0.0,0.767,0.738,Pertambangan
+ALR0400,2023-09,Asia Tenggara,3.73,0.641,0.336,0.367,0.692,0.792,Pertambangan
+ALR0401,2023-01,Amazon,2.35,0.695,0.0,0.0,0.721,0.079,Pertanian skala kecil
+ALR0402,2024-04,Asia Tenggara,9.77,0.684,0.194,0.0,1.0,1.0,Pertanian skala besar
+ALR0403,2024-06,Cekungan Kongo,7.45,0.767,0.0,0.069,0.83,0.63,Pertanian skala besar
+ALR0404,2024-11,Borneo,1.06,0.386,0.393,0.05,0.652,0.511,Pertanian skala kecil
+ALR0405,2024-10,Amazon,0.85,0.287,0.217,0.0,0.563,0.735,Pertanian skala kecil
+ALR0406,2025-04,Amerika Selatan,5.04,0.823,0.401,0.682,0.835,0.936,Pertambangan
+ALR0407,2024-01,Asia Tenggara,7.33,0.707,0.631,0.065,1.0,0.366,Pertanian skala besar
+ALR0408,2025-12,Cekungan Kongo,3.54,0.677,0.0,0.147,0.213,0.806,Pertambangan
+ALR0409,2024-12,Amerika Selatan,2.44,0.621,0.0,0.074,1.0,0.726,Pertanian skala kecil
+ALR0410,2025-03,Amazon,5.57,0.115,0.63,0.479,0.785,0.927,Kebakaran
+ALR0411,2023-07,Cekungan Kongo,2.03,0.254,0.154,0.257,0.928,0.59,Pertanian skala kecil
+ALR0412,2024-09,Cekungan Kongo,6.2,0.058,0.79,0.352,1.0,0.536,Kebakaran
+ALR0413,2024-10,Amerika Selatan,3.83,0.177,0.09,0.959,0.412,0.513,Gangguan alami/banjir
+ALR0414,2024-10,Asia Tenggara,0.91,0.675,0.011,0.0,0.478,0.843,Pertambangan
+ALR0415,2023-06,Cekungan Kongo,7.75,0.49,0.231,0.0,0.887,0.996,Pertanian skala besar
+ALR0416,2023-11,Asia Tenggara,1.36,0.334,0.18,0.0,0.738,0.626,Pertanian skala kecil
+ALR0417,2023-02,Amerika Selatan,3.74,0.314,0.665,0.459,0.541,0.941,Kebakaran
+ALR0418,2023-08,Amerika Selatan,1.05,0.737,0.187,0.504,0.669,0.593,Penebangan selektif
+ALR0419,2024-08,Asia Tenggara,1.67,0.589,0.29,0.481,0.789,0.818,Pertanian skala kecil
+ALR0420,2024-04,Asia Tenggara,1.77,0.784,0.0,0.269,0.448,0.725,Penebangan selektif
+ALR0421,2023-03,Cekungan Kongo,2.0,0.296,0.0,0.018,0.85,0.822,Pertanian skala kecil
+ALR0422,2023-11,Cekungan Kongo,2.12,0.888,0.106,0.361,0.079,0.896,Penebangan selektif
+ALR0423,2023-05,Borneo,5.72,0.819,0.0,0.215,0.501,0.659,Pertambangan
+ALR0424,2024-07,Amazon,7.44,0.165,0.822,0.17,0.207,0.558,Kebakaran
+ALR0425,2024-02,Cekungan Kongo,11.81,0.705,0.371,0.0,0.524,0.7,Pertanian skala besar
+ALR0426,2023-03,Borneo,2.9,0.439,0.0,0.363,0.879,0.662,Pertanian skala kecil
+ALR0427,2025-04,Cekungan Kongo,5.82,0.716,0.0,0.543,0.525,0.768,Pertanian skala besar
+ALR0428,2023-06,Amazon,2.3,0.479,0.486,0.074,0.053,0.93,Pertanian skala kecil
+ALR0429,2025-06,Asia Tenggara,2.59,0.249,0.0,0.677,0.674,0.707,Gangguan alami/banjir
+ALR0430,2023-10,Amerika Selatan,2.47,0.016,0.151,0.627,1.0,0.677,Gangguan alami/banjir
+ALR0431,2023-05,Amerika Selatan,3.93,0.508,0.11,0.0,0.623,0.726,Pertambangan
+ALR0432,2024-05,Amazon,1.74,0.488,0.044,0.39,0.703,0.548,Pertanian skala kecil
+ALR0433,2025-11,Amazon,2.92,0.42,0.46,0.0,0.489,0.777,Pertanian skala kecil
+ALR0434,2023-08,Amazon,4.72,0.251,0.193,0.713,0.807,0.959,Gangguan alami/banjir
+ALR0435,2023-06,Cekungan Kongo,2.61,0.301,0.209,0.333,0.713,0.378,Pertanian skala kecil
+ALR0436,2023-07,Amerika Selatan,2.39,0.571,0.145,0.487,0.863,1.0,Pertanian skala kecil
+ALR0437,2023-08,Amerika Selatan,8.86,0.133,0.706,0.222,0.46,0.779,Kebakaran
+ALR0438,2024-02,Amerika Selatan,6.82,0.335,0.293,0.0,0.443,0.58,Pertanian skala besar
+ALR0439,2024-04,Amerika Selatan,7.81,0.398,0.0,0.226,0.375,1.0,Pertanian skala besar
+ALR0440,2024-02,Asia Tenggara,3.38,0.783,0.0,0.528,0.668,0.494,Pertanian skala besar
+ALR0441,2025-08,Borneo,2.49,0.526,0.576,0.213,0.176,0.57,Pertambangan
+ALR0442,2023-12,Asia Tenggara,3.09,0.727,0.085,0.141,0.709,0.631,Penebangan selektif
+ALR0443,2023-02,Asia Tenggara,6.05,0.289,0.739,0.032,0.884,0.393,Kebakaran
+ALR0444,2024-11,Cekungan Kongo,3.19,0.786,0.036,0.393,0.525,0.804,Penebangan selektif
+ALR0445,2025-08,Cekungan Kongo,1.97,0.681,0.0,0.187,0.881,1.0,Pertanian skala besar
+ALR0446,2025-07,Borneo,1.2,0.159,0.0,0.41,0.0,0.676,Pertanian skala kecil
+ALR0447,2025-02,Borneo,6.3,0.26,0.859,0.156,0.487,0.956,Kebakaran
+ALR0448,2024-06,Amazon,1.92,0.446,0.0,0.119,0.404,0.909,Pertanian skala kecil
+ALR0449,2025-06,Cekungan Kongo,5.45,0.601,0.447,0.0,0.16,0.952,Pertambangan
+ALR0450,2024-12,Amerika Selatan,5.71,0.578,0.406,0.399,0.688,0.892,Pertambangan
+ALR0451,2024-05,Borneo,4.13,0.393,0.209,1.0,0.686,0.578,Gangguan alami/banjir
+ALR0452,2024-07,Amazon,1.73,0.598,0.204,0.438,0.771,0.827,Pertanian skala kecil
+ALR0453,2025-06,Asia Tenggara,1.57,0.556,0.489,0.389,0.455,0.59,Pertanian skala kecil
+ALR0454,2023-04,Cekungan Kongo,3.11,0.742,0.0,0.236,0.746,0.811,Pertambangan
+ALR0455,2025-10,Asia Tenggara,1.35,0.675,0.021,0.256,0.809,0.827,Pertanian skala besar
+ALR0456,2025-04,Amazon,1.98,0.224,0.179,0.0,0.829,0.834,Pertanian skala kecil
+ALR0457,2025-07,Amerika Selatan,4.19,0.409,0.289,0.414,0.809,0.471,Gangguan alami/banjir
+ALR0458,2024-12,Amazon,2.53,0.239,0.827,0.456,0.677,0.543,Kebakaran
+ALR0459,2025-08,Amerika Selatan,2.0,0.591,0.0,0.0,0.792,0.951,Pertanian skala kecil
+ALR0460,2024-07,Asia Tenggara,1.68,0.366,0.38,0.015,0.75,0.83,Pertanian skala kecil
+ALR0461,2025-12,Borneo,6.23,0.707,0.861,0.0,0.947,0.691,Kebakaran
+ALR0462,2025-01,Cekungan Kongo,2.46,0.629,0.254,0.251,0.917,0.843,Penebangan selektif
+ALR0463,2023-10,Amazon,2.65,0.0,0.287,0.766,0.733,0.78,Gangguan alami/banjir
+ALR0464,2023-09,Amerika Selatan,2.92,1.0,0.24,0.085,0.837,0.791,Penebangan selektif
+ALR0465,2023-09,Amerika Selatan,2.11,0.337,0.0,0.429,0.627,0.6,Pertanian skala kecil
+ALR0466,2023-07,Borneo,1.68,0.484,0.0,0.069,0.739,0.72,Pertanian skala kecil
+ALR0467,2023-11,Asia Tenggara,7.61,0.861,0.055,0.154,1.0,0.949,Pertanian skala besar
+ALR0468,2024-05,Amazon,2.48,0.864,0.366,0.298,0.608,0.603,Pertambangan
+ALR0469,2023-11,Asia Tenggara,1.68,0.157,0.024,0.061,1.0,1.0,Pertanian skala kecil
+ALR0470,2024-04,Cekungan Kongo,5.69,0.528,0.007,0.301,0.984,0.833,Pertanian skala besar
+ALR0471,2024-11,Asia Tenggara,11.8,0.772,0.086,0.137,0.556,0.53,Pertanian skala besar
+ALR0472,2025-03,Amazon,5.67,0.569,0.546,0.094,0.874,0.578,Pertambangan
+ALR0473,2024-02,Amerika Selatan,0.26,0.633,0.18,0.398,0.711,0.477,Pertanian skala kecil
+ALR0474,2024-12,Asia Tenggara,6.66,0.45,1.0,0.42,0.0,0.986,Kebakaran
+ALR0475,2023-03,Amazon,14.86,0.965,0.297,0.242,0.489,0.615,Pertanian skala besar
+ALR0476,2024-06,Amerika Selatan,3.32,0.302,1.0,0.0,0.153,0.75,Kebakaran
+ALR0477,2024-06,Asia Tenggara,4.45,0.0,0.748,0.333,1.0,0.538,Kebakaran
+ALR0478,2025-06,Cekungan Kongo,3.03,0.209,0.23,0.782,0.637,1.0,Gangguan alami/banjir
+ALR0479,2024-08,Amazon,8.47,0.51,0.33,0.017,0.884,0.631,Pertanian skala besar
+ALR0480,2025-10,Amazon,4.47,0.16,0.273,0.406,0.221,0.529,Kebakaran
+ALR0481,2025-08,Amazon,2.64,0.58,0.324,0.271,0.786,0.799,Pertanian skala kecil
+ALR0482,2025-08,Borneo,2.0,0.689,0.124,0.0,1.0,0.559,Pertanian skala besar
+ALR0483,2024-05,Asia Tenggara,1.51,0.295,0.021,0.133,0.778,0.874,Pertanian skala kecil
+ALR0484,2025-06,Borneo,2.68,0.497,0.245,0.375,0.477,0.932,Penebangan selektif
+ALR0485,2025-03,Amazon,2.1,0.8,0.009,0.269,0.601,1.0,Pertanian skala kecil
+ALR0486,2025-06,Cekungan Kongo,2.28,0.364,0.328,0.672,0.676,0.631,Gangguan alami/banjir
+ALR0487,2024-07,Amerika Selatan,2.45,0.318,0.142,0.635,0.403,0.868,Pertanian skala kecil
+ALR0488,2024-02,Asia Tenggara,1.29,0.78,0.445,0.398,0.439,0.671,Penebangan selektif
+ALR0489,2025-03,Cekungan Kongo,8.5,0.722,0.481,0.263,0.471,0.855,Kebakaran
+ALR0490,2023-07,Asia Tenggara,1.4,0.539,0.158,0.227,0.849,0.735,Pertanian skala kecil
+ALR0491,2023-10,Amerika Selatan,0.27,0.669,0.077,0.266,0.82,0.744,Pertambangan
+ALR0492,2025-09,Asia Tenggara,3.32,1.0,0.258,0.245,0.632,0.592,Penebangan selektif
+ALR0493,2025-10,Asia Tenggara,5.63,0.49,0.849,0.122,0.68,0.789,Kebakaran
+ALR0494,2023-02,Borneo,5.13,0.542,0.0,0.303,0.65,0.274,Pertambangan
+ALR0495,2023-04,Borneo,5.54,0.774,1.0,0.075,0.885,0.62,Kebakaran
+ALR0496,2023-12,Cekungan Kongo,6.48,0.22,1.0,0.0,0.449,0.91,Kebakaran
+ALR0497,2024-07,Borneo,2.16,0.846,0.24,0.272,0.515,0.687,Penebangan selektif
+ALR0498,2024-07,Borneo,7.87,0.521,0.317,0.091,0.0,0.549,Pertanian skala besar
+ALR0499,2024-03,Cekungan Kongo,1.4,0.715,0.167,0.576,0.954,0.844,Pertanian skala kecil
+ALR0500,2025-06,Borneo,1.92,0.485,0.241,0.045,0.479,0.539,Pertanian skala kecil
+ALR0501,2023-03,Asia Tenggara,6.31,0.188,0.956,0.184,0.0,0.894,Kebakaran
+ALR0502,2025-04,Amerika Selatan,8.67,0.496,0.496,0.016,0.733,0.38,Pertanian skala besar
+ALR0503,2023-12,Amazon,2.96,0.117,0.131,1.0,0.473,0.693,Gangguan alami/banjir
+ALR0504,2025-10,Amazon,9.36,0.791,0.245,0.0,0.808,0.613,Pertanian skala besar
+ALR0505,2025-07,Cekungan Kongo,2.57,0.243,0.298,0.017,0.263,0.879,Pertanian skala kecil
+ALR0506,2024-10,Amazon,4.68,0.978,0.155,0.229,0.943,0.625,Pertanian skala besar
+ALR0507,2025-08,Borneo,5.06,0.524,0.202,0.651,0.853,0.643,Pertanian skala besar
+ALR0508,2024-01,Amazon,1.99,0.72,0.0,0.236,0.699,0.667,Pertanian skala kecil
+ALR0509,2024-11,Borneo,2.23,0.678,0.351,0.05,1.0,0.544,Penebangan selektif
+ALR0510,2024-04,Amerika Selatan,5.3,0.253,0.978,0.356,1.0,0.67,Kebakaran
+ALR0511,2024-10,Amazon,9.95,1.0,0.084,0.116,0.776,0.468,Pertanian skala besar
+ALR0512,2023-10,Asia Tenggara,2.64,0.816,0.356,0.081,0.583,0.949,Penebangan selektif
+ALR0513,2025-01,,0.3,0.43,0.255,0.151,1.0,0.748,Gangguan alami/banjir
+ALR0514,2023-08,Borneo,1.58,0.371,0.402,0.093,0.346,0.471,Pertanian skala kecil
+ALR0515,2025-08,Borneo,3.35,0.46,0.134,0.088,0.437,0.548,Penebangan selektif
+ALR0516,2023-06,Cekungan Kongo,2.04,0.199,0.074,0.528,0.81,0.464,Gangguan alami/banjir
+ALR0517,2025-11,Amazon,2.41,0.88,0.014,0.0,0.499,0.896,Penebangan selektif
+ALR0518,2023-06,Asia Tenggara,5.66,0.7,0.077,0.0,0.542,0.609,Pertambangan
+ALR0519,2025-08,Asia Tenggara,2.27,0.914,0.366,0.212,0.793,0.574,Penebangan selektif
+ALR0520,2023-05,Cekungan Kongo,1.67,0.571,0.0,0.071,0.89,0.728,Pertanian skala kecil
+ALR0521,2025-12,Asia Tenggara,5.15,0.752,0.171,0.19,0.074,0.901,Pertambangan
+ALR0522,2023-03,Amazon,2.69,0.0,0.0,0.918,0.338,0.496,Gangguan alami/banjir
+ALR0523,2024-04,Borneo,3.02,0.254,0.081,0.848,0.828,0.676,Gangguan alami/banjir
+ALR0524,2025-10,Borneo,0.77,0.814,0.021,0.289,0.402,0.971,Penebangan selektif
+ALR0525,2023-10,Borneo,6.39,0.491,0.0,0.066,0.331,0.922,Pertanian skala besar
+ALR0526,2023-11,Amazon,4.95,0.524,0.383,0.197,0.01,0.738,Pertambangan
+ALR0527,2023-06,Amerika Selatan,2.53,0.184,0.285,0.877,0.672,0.497,Gangguan alami/banjir
+ALR0528,2023-09,Cekungan Kongo,1.22,0.082,0.363,1.0,0.258,0.659,Gangguan alami/banjir
+ALR0529,2023-03,Amerika Selatan,7.06,0.673,0.0,0.22,0.348,0.919,Pertanian skala besar
+ALR0530,2023-05,Asia Tenggara,3.08,0.257,0.429,0.465,0.398,0.974,Gangguan alami/banjir
+ALR0531,2025-09,Amazon,4.83,0.668,0.676,0.15,0.45,0.679,Kebakaran
+ALR0532,2025-12,Borneo,4.98,0.451,0.661,0.458,0.0,0.517,Kebakaran
+ALR0533,2025-09,Asia Tenggara,1.67,0.522,0.184,0.421,0.915,0.736,Pertanian skala kecil
+ALR0534,2023-06,Amerika Selatan,2.17,0.407,0.0,1.0,0.103,0.705,Gangguan alami/banjir
+ALR0535,2024-11,Amerika Selatan,8.34,0.171,1.0,0.0,0.629,0.822,Kebakaran
+ALR0536,2023-11,Amazon,1.26,0.462,0.244,0.0,0.715,0.582,Pertanian skala kecil
+ALR0537,2024-07,Asia Tenggara,1.73,0.654,0.0,0.336,0.776,0.548,Penebangan selektif
+ALR0538,2025-01,Amerika Selatan,1.91,0.578,0.041,0.0,0.904,0.833,Pertanian skala kecil
+ALR0539,2025-12,Amerika Selatan,4.98,0.986,0.0,0.104,0.261,0.552,Pertambangan
+ALR0540,2024-09,Cekungan Kongo,3.84,0.701,0.211,0.248,1.0,1.0,Pertambangan
+ALR0541,2025-04,Asia Tenggara,2.78,0.882,0.046,0.002,0.873,0.781,Penebangan selektif
+ALR0542,2025-11,Asia Tenggara,2.7,0.452,1.0,0.0,0.898,0.728,Kebakaran
+ALR0543,2024-02,Amazon,3.94,0.501,0.983,0.155,1.0,0.758,Kebakaran
+ALR0544,2023-04,Asia Tenggara,2.28,0.128,0.781,0.319,0.583,0.44,Pertanian skala kecil
+ALR0545,2025-06,Amazon,2.35,0.239,0.774,0.0,0.753,0.682,Kebakaran
+ALR0546,2024-05,Amazon,3.83,0.793,0.212,0.279,0.694,1.0,Penebangan selektif
+ALR0547,2023-10,Amerika Selatan,2.82,0.139,0.208,0.072,0.918,0.825,Pertanian skala kecil
+ALR0548,2025-03,Amazon,4.49,0.723,0.411,0.321,0.588,0.56,Pertanian skala besar
+ALR0549,2023-09,Borneo,3.51,0.724,0.0,0.364,0.578,0.49,Penebangan selektif
+ALR0550,2023-12,Amerika Selatan,5.43,0.522,0.709,0.229,0.524,1.0,Kebakaran
+ALR0551,2025-09,Borneo,2.76,0.352,0.22,0.698,0.951,1.0,Gangguan alami/banjir
+ALR0552,2023-07,Borneo,2.68,0.604,0.19,0.0,0.604,0.856,Pertanian skala kecil
+ALR0553,2025-11,Amerika Selatan,2.32,0.884,0.243,0.274,0.426,0.973,Penebangan selektif
+ALR0554,2023-02,Asia Tenggara,7.55,0.405,0.721,0.383,0.498,0.393,Kebakaran
+ALR0555,2023-12,Amerika Selatan,4.25,0.435,0.0,0.052,0.675,0.769,Pertambangan
+ALR0556,2025-12,Asia Tenggara,5.47,0.447,0.521,0.07,0.842,0.612,Kebakaran
+ALR0557,2025-02,Borneo,3.64,0.956,0.423,0.056,0.506,0.647,Pertambangan
+ALR0558,2025-08,Cekungan Kongo,2.29,0.753,0.122,0.566,0.688,0.468,Pertanian skala kecil
+ALR0559,2023-06,Borneo,4.04,0.752,0.513,0.0,0.636,0.559,Penebangan selektif
+ALR0560,2025-05,Cekungan Kongo,2.08,0.502,0.0,0.0,0.906,0.621,Penebangan selektif
+ALR0561,2023-10,Asia Tenggara,4.33,0.068,0.348,1.0,0.759,0.847,Gangguan alami/banjir
+ALR0562,2023-08,Amerika Selatan,9.79,0.508,0.539,0.366,1.0,0.917,Pertanian skala besar
+ALR0563,2025-09,Amazon,1.14,0.229,0.028,0.135,0.808,0.725,Pertanian skala kecil
+ALR0564,2023-03,Asia Tenggara,4.25,0.618,0.511,0.249,0.737,0.739,Kebakaran
+ALR0565,2024-10,Asia Tenggara,4.55,0.818,0.444,0.341,0.81,0.327,Pertanian skala besar
+ALR0566,2025-09,Asia Tenggara,3.1,0.374,0.201,0.268,0.0,0.668,Penebangan selektif
+ALR0567,2025-04,Borneo,3.2,0.214,0.0,1.0,0.708,0.636,Gangguan alami/banjir
+ALR0568,2024-04,Amerika Selatan,4.93,0.788,0.0,0.0,0.819,0.781,Pertambangan
+ALR0569,2025-03,Asia Tenggara,3.99,0.801,0.0,0.173,1.0,0.65,Pertambangan
+ALR0570,2024-05,Asia Tenggara,0.37,0.453,0.0,0.99,0.602,0.662,Gangguan alami/banjir
+ALR0571,2024-05,Asia Tenggara,5.83,0.618,0.241,0.214,0.816,0.814,Pertambangan
+ALR0572,2025-05,Cekungan Kongo,3.69,0.385,0.141,0.757,0.924,0.566,Gangguan alami/banjir
+ALR0573,2025-07,Amerika Selatan,4.48,0.816,0.273,0.351,0.433,0.648,Pertambangan
+ALR0574,2025-12,Borneo,3.0,0.66,0.055,0.174,0.727,0.933,Penebangan selektif
+ALR0575,2024-12,Amazon,3.91,0.816,0.145,0.541,1.0,0.783,Pertanian skala besar
+ALR0576,2023-09,Cekungan Kongo,2.07,0.851,0.346,0.246,0.449,0.5,Pertanian skala kecil
+ALR0577,2023-07,Amerika Selatan,3.48,0.766,0.503,0.0,0.789,0.723,Penebangan selektif
+ALR0578,2023-04,Amerika Selatan,2.27,0.476,0.028,0.352,0.801,0.514,Pertanian skala kecil
+ALR0579,2024-02,Amazon,1.65,0.506,0.041,0.104,1.0,0.512,Pertanian skala kecil
+ALR0580,2024-08,Cekungan Kongo,6.35,0.989,0.065,0.166,1.0,0.599,Pertambangan
+ALR0581,2024-05,Asia Tenggara,4.9,0.561,0.104,0.286,0.317,0.828,Pertambangan
+ALR0582,2025-08,Amazon,2.4,0.361,0.129,0.0,0.0,0.725,Pertanian skala kecil
+ALR0583,2024-03,Amerika Selatan,1.67,0.414,0.154,0.207,0.376,0.845,Pertanian skala kecil
+ALR0584,2023-08,Amerika Selatan,6.93,0.523,0.102,0.396,0.47,0.696,Pertambangan
+ALR0585,2023-02,Cekungan Kongo,7.09,0.597,0.147,0.465,0.832,1.0,Pertanian skala besar
+ALR0586,2025-10,Amazon,3.39,0.662,0.065,0.208,0.523,0.874,Penebangan selektif
+ALR0587,2025-12,Amazon,2.28,0.444,0.445,0.157,0.516,0.482,Pertanian skala kecil
+ALR0588,2024-02,Amerika Selatan,4.76,0.545,0.882,0.231,0.792,0.49,Kebakaran
+ALR0589,2023-09,Cekungan Kongo,3.61,0.62,0.15,0.261,0.8,1.0,Pertanian skala besar
+ALR0590,2025-06,Borneo,5.0,0.537,0.066,0.167,1.0,0.499,Pertanian skala besar
+ALR0591,2023-07,Asia Tenggara,3.4,0.908,0.2,0.197,0.947,0.488,Penebangan selektif
+ALR0592,2025-08,Amazon,2.83,0.85,0.323,0.756,0.713,0.678,Pertambangan
+ALR0593,2025-02,Asia Tenggara,3.48,0.346,0.416,0.888,0.65,0.752,Gangguan alami/banjir
+ALR0594,2023-09,Cekungan Kongo,1.11,0.665,0.098,0.398,0.605,0.853,Pertanian skala kecil
+ALR0595,2024-01,Asia Tenggara,1.94,0.581,0.0,0.0,0.308,0.62,Pertanian skala kecil
+ALR0596,2023-09,Cekungan Kongo,2.26,0.71,0.37,0.0,0.873,0.659,Pertanian skala kecil
+ALR0597,2023-04,Cekungan Kongo,3.49,0.189,1.0,0.095,0.515,0.732,Kebakaran
+ALR0598,2024-07,Amerika Selatan,13.49,0.686,0.788,0.109,0.862,0.841,Pertanian skala besar
+ALR0599,2023-05,Borneo,1.63,0.106,0.0,0.776,1.0,0.933,Gangguan alami/banjir
+ALR0600,2025-05,Cekungan Kongo,1.72,0.718,0.335,0.0,0.878,0.772,Pertanian skala kecil
+ALR0601,2024-11,Amazon,2.26,0.473,0.386,0.0,0.833,0.48,Penebangan selektif
+ALR0602,2025-04,Asia Tenggara,3.35,0.236,0.585,0.0,0.924,0.744,Kebakaran
+ALR0603,2024-11,Amazon,1.5,0.327,0.044,0.106,0.984,0.71,Penebangan selektif
+ALR0604,2025-10,Asia Tenggara,5.45,0.591,0.264,0.0,0.234,0.549,Pertanian skala besar
+ALR0605,2025-09,Borneo,7.67,0.493,0.71,0.17,0.499,0.713,Kebakaran
+ALR0606,2023-11,Amerika Selatan,1.85,0.82,0.0,0.195,1.0,0.761,Penebangan selektif
+ALR0607,2023-09,Cekungan Kongo,3.44,0.29,0.0,0.764,0.86,0.451,Gangguan alami/banjir
+ALR0608,2023-10,Borneo,2.05,0.435,0.45,0.092,0.602,0.725,Pertanian skala kecil
+ALR0609,2025-10,Borneo,2.03,0.545,0.28,0.514,0.897,0.517,Pertambangan
+ALR0610,2024-04,Cekungan Kongo,7.02,0.651,0.072,0.47,0.474,0.936,Pertambangan
+ALR0611,2023-06,Asia Tenggara,3.94,0.58,0.091,0.961,1.0,0.826,Gangguan alami/banjir
+ALR0612,2024-03,Amazon,1.94,0.36,0.331,0.149,0.919,0.641,Pertanian skala kecil
+ALR0613,2024-06,Cekungan Kongo,4.26,0.247,1.0,0.0,0.79,0.796,Kebakaran
+ALR0614,2024-05,Borneo,4.24,0.599,0.564,0.029,0.801,0.728,Pertambangan
+ALR0615,2025-04,Cekungan Kongo,6.2,0.037,0.449,0.069,1.0,0.657,Kebakaran
+ALR0616,2023-12,Asia Tenggara,2.74,0.762,0.223,0.044,0.874,1.0,Pertambangan
+ALR0617,2024-09,Asia Tenggara,4.97,0.67,0.0,0.204,0.88,0.66,Penebangan selektif
+ALR0618,2025-04,Borneo,5.12,0.537,0.859,0.18,0.0,0.789,Kebakaran
+ALR0619,2024-04,Borneo,4.62,0.72,0.161,0.12,0.589,0.896,Pertanian skala besar
+ALR0620,2025-09,Asia Tenggara,2.09,0.472,0.358,0.521,1.0,0.674,Pertanian skala kecil
+ALR0621,2023-10,Cekungan Kongo,5.77,0.259,0.671,0.227,0.929,0.453,Kebakaran
+ALR0622,2024-08,Cekungan Kongo,7.73,0.322,0.596,0.166,0.949,0.743,Kebakaran
+ALR0623,2025-12,Cekungan Kongo,6.5,0.338,0.642,0.11,0.478,0.831,Kebakaran
+ALR0624,2025-06,Asia Tenggara,2.05,0.942,0.0,0.0,1.0,0.688,Penebangan selektif
+ALR0625,2023-12,Cekungan Kongo,5.31,0.128,0.855,0.367,0.701,0.828,Kebakaran
+ALR0626,2024-04,Amazon,4.62,1.0,0.552,0.505,0.693,0.863,Pertambangan
+ALR0627,2023-06,Amerika Selatan,2.91,0.666,0.57,0.549,0.78,0.728,Pertanian skala besar
+ALR0628,2023-02,Cekungan Kongo,4.38,0.273,0.824,0.641,0.296,0.925,Kebakaran
+ALR0629,2025-04,Amazon,4.14,0.073,0.516,0.965,0.149,0.338,Gangguan alami/banjir
+ALR0630,2024-12,Amazon,6.91,0.682,0.091,0.233,0.335,0.725,Pertanian skala besar
+ALR0631,2025-08,Amazon,9.39,0.76,0.118,0.0,0.401,0.866,Pertanian skala besar
+ALR0632,2025-11,Amazon,3.54,1.0,0.384,0.0,0.0,0.743,Penebangan selektif
+ALR0633,2025-06,Asia Tenggara,5.87,0.342,0.98,0.25,0.404,0.946,Kebakaran
+ALR0634,2025-10,Amerika Selatan,2.22,0.936,0.079,0.446,0.514,0.863,Pertambangan
+ALR0635,2023-06,Amerika Selatan,2.44,0.496,0.235,0.522,0.629,0.69,Gangguan alami/banjir
+ALR0636,2025-05,Borneo,4.65,0.081,0.0,0.353,0.143,0.852,Gangguan alami/banjir
+ALR0637,2025-02,Borneo,4.42,0.671,0.159,0.092,0.797,0.92,Pertambangan
+ALR0638,2024-02,Asia Tenggara,2.79,0.535,0.133,0.372,0.596,0.874,Pertambangan
+ALR0639,2025-04,Amerika Selatan,1.57,0.301,0.0,0.0,0.573,0.442,Pertanian skala kecil
+ALR0640,2023-02,Borneo,5.06,0.704,0.0,0.258,0.864,0.418,Pertanian skala besar
+ALR0641,2025-04,Borneo,6.27,0.699,0.647,0.0,0.567,0.748,Kebakaran
+ALR0642,2023-03,Asia Tenggara,5.3,0.801,0.658,0.49,0.87,0.701,Pertanian skala besar
+ALR0643,2024-03,Borneo,1.72,0.119,0.0,0.284,0.046,0.749,Pertanian skala kecil
+ALR0644,2024-12,Asia Tenggara,1.13,0.228,0.306,0.0,0.752,0.656,Pertanian skala kecil
+ALR0645,2023-12,Cekungan Kongo,1.73,0.426,0.0,0.124,1.0,0.97,Pertanian skala kecil
+ALR0646,2023-07,Amerika Selatan,3.47,0.774,0.0,0.123,0.259,0.636,Penebangan selektif
+ALR0647,2024-03,Amazon,2.66,0.19,0.0,0.388,0.276,0.302,Gangguan alami/banjir
+ALR0648,2023-05,Asia Tenggara,12.75,0.708,0.533,0.398,0.932,0.615,Pertanian skala besar
+ALR0649,2024-03,Asia Tenggara,7.95,0.396,0.715,0.159,0.414,1.0,Kebakaran
+ALR0650,2025-12,Amazon,1.66,0.358,0.188,0.195,0.108,0.508,Pertanian skala kecil
+ALR0651,2025-12,Amerika Selatan,6.36,0.224,0.569,0.0,0.856,0.381,Kebakaran
+ALR0652,2023-11,Amazon,3.92,0.344,0.407,0.55,1.0,0.396,Gangguan alami/banjir
+ALR0653,2025-03,Asia Tenggara,1.33,1.0,0.152,0.266,1.0,0.736,Penebangan selektif
+ALR0654,2025-07,Amerika Selatan,0.83,0.566,0.242,0.203,0.544,0.841,Penebangan selektif
+ALR0655,2025-05,Amazon,2.47,0.614,0.093,0.593,0.0,0.586,Gangguan alami/banjir
+ALR0656,2024-02,Amerika Selatan,2.85,0.362,0.0,0.433,0.988,0.807,Pertanian skala kecil
+ALR0657,2024-04,Amazon,3.0,0.0,0.137,1.0,0.518,0.757,Gangguan alami/banjir
+ALR0658,2025-01,Amerika Selatan,4.47,0.058,0.159,0.7,0.896,1.0,Gangguan alami/banjir
+ALR0659,2023-08,Amerika Selatan,2.8,0.194,0.0,0.931,0.0,0.697,Gangguan alami/banjir
+ALR0660,2024-04,Borneo,2.44,0.368,0.069,1.0,0.647,0.55,Gangguan alami/banjir
+ALR0661,2023-06,Cekungan Kongo,2.16,0.492,0.292,0.046,0.615,0.47,Penebangan selektif
+ALR0662,2025-12,Asia Tenggara,1.31,0.834,0.547,0.237,0.0,0.863,Pertambangan
+ALR0663,2025-03,Borneo,2.06,0.72,0.388,0.352,1.0,0.692,Penebangan selektif
+ALR0664,2023-09,Borneo,10.99,0.672,0.463,0.423,0.111,0.554,Pertanian skala besar
+ALR0665,2023-01,Amerika Selatan,3.22,0.301,0.0,0.61,0.181,0.722,Gangguan alami/banjir
+ALR0666,2023-01,Cekungan Kongo,1.02,0.563,0.0,0.358,0.458,0.884,Pertanian skala kecil
+ALR0667,2025-07,Amerika Selatan,3.93,0.174,0.0,0.0,0.349,0.39,Pertanian skala besar
+ALR0668,2025-02,Borneo,2.24,0.28,0.163,0.691,0.368,0.821,Gangguan alami/banjir
+ALR0669,2025-03,Cekungan Kongo,2.49,0.133,0.0,0.804,0.821,0.31,Gangguan alami/banjir
+ALR0670,2025-10,Amazon,9.14,0.583,0.266,0.0,0.558,0.785,Pertanian skala besar
+ALR0671,2025-08,Cekungan Kongo,2.4,0.338,0.042,0.792,0.54,0.952,Gangguan alami/banjir
+ALR0672,2025-08,Asia Tenggara,5.52,0.761,0.849,0.045,0.12,0.651,Kebakaran
+ALR0673,2024-08,Amerika Selatan,4.91,0.482,0.415,0.15,1.0,0.721,Kebakaran
+ALR0674,2024-11,Asia Tenggara,2.48,0.467,0.061,0.932,0.488,0.558,Penebangan selektif
+ALR0675,2025-07,Cekungan Kongo,9.1,0.857,0.381,0.0,0.366,0.574,Pertanian skala besar
+ALR0676,2024-11,Amerika Selatan,2.08,0.103,0.0,0.223,0.639,1.0,Pertanian skala kecil
+ALR0677,2025-10,Amerika Selatan,9.04,0.632,0.08,0.0,0.404,0.642,Pertanian skala besar
+ALR0678,2023-10,Borneo,4.88,0.581,0.401,0.274,0.478,0.661,Pertanian skala besar
+ALR0679,2025-01,Amerika Selatan,1.28,0.519,0.141,0.29,0.797,0.783,Pertanian skala kecil
+ALR0680,2023-09,Cekungan Kongo,2.28,0.307,0.175,0.0,1.0,0.525,Pertanian skala kecil
+ALR0681,2025-04,Borneo,7.59,0.733,0.19,0.122,0.645,0.514,Pertanian skala besar
+ALR0682,2023-06,Cekungan Kongo,2.5,0.935,0.142,0.367,0.935,0.795,Penebangan selektif
+ALR0683,2024-06,Amazon,6.41,0.47,0.794,0.36,0.508,0.45,Kebakaran
+ALR0684,2025-06,Cekungan Kongo,2.79,0.475,0.292,0.378,0.213,1.0,Penebangan selektif
+ALR0685,2024-10,Amazon,3.72,0.96,0.114,0.36,0.778,0.797,Penebangan selektif
+ALR0686,2025-06,Borneo,6.72,0.494,0.493,0.283,0.518,0.776,Kebakaran
+ALR0687,2024-05,Cekungan Kongo,9.76,0.582,0.346,0.0,0.844,0.753,Kebakaran
+ALR0688,2023-01,Asia Tenggara,3.44,0.643,0.255,0.098,0.285,0.535,Penebangan selektif
+ALR0689,2023-01,Asia Tenggara,7.75,0.827,0.325,0.08,0.224,0.867,Pertambangan
+ALR0690,2024-03,Cekungan Kongo,4.13,0.502,0.191,0.861,0.66,0.886,Gangguan alami/banjir
+ALR0691,2023-08,Cekungan Kongo,2.18,0.403,0.193,0.0,0.064,0.716,Pertanian skala kecil
+ALR0692,2023-04,Amazon,2.1,1.0,0.283,0.0,0.723,0.798,Pertambangan
+ALR0693,2023-01,Amerika Selatan,3.84,0.483,1.0,0.341,0.668,0.48,Kebakaran
+ALR0694,2023-11,Amazon,1.61,0.958,0.124,0.018,0.705,0.603,Penebangan selektif
+ALR0695,2024-11,Cekungan Kongo,9.36,0.432,0.822,0.0,0.414,0.739,Kebakaran
+ALR0696,2025-07,Borneo,5.16,0.351,0.489,0.141,0.431,0.672,Kebakaran
+ALR0697,2023-11,Borneo,5.71,0.207,0.976,0.567,0.0,1.0,Kebakaran
+ALR0698,2024-06,Amazon,3.4,0.645,0.233,0.328,1.0,0.582,Penebangan selektif
+ALR0699,2025-12,Amazon,3.82,0.779,0.27,0.0,0.153,0.791,Pertambangan
+ALR0700,2023-05,Cekungan Kongo,3.94,0.7,0.338,0.0,1.0,0.613,Pertambangan
